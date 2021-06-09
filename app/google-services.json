@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439820633765",
+    "project_id": "phanvanthongsmiling",
+    "storage_bucket": "phanvanthongsmiling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439820633765:android:a03fd7adab35b6878a6f4c",
+        "android_client_info": {
+          "package_name": "com.example.smiling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439820633765-dbcfg596m1jh7j5dgargpua3f41fepid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJiEq8fiXuDl4G1vGlYt9HWakHRzIA4Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439820633765-dbcfg596m1jh7j5dgargpua3f41fepid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
